@@ -1,0 +1,26 @@
+{
+    "name": "language.detection",
+    "version": "1.0.1",
+    "title": "jQuery Language detection",
+    "author": {
+        "name": "Daniele De Santis",
+        "url": "http://www.danieledesantis.net"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/danieledesantis/jquery-language-detection/blob/master/LICENSE.md"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.5"
+    },
+	"homepage": "https://github.com/danieledesantis/jquery-language-detection",
+    "description": "jQuery plugin that adds a fading 'back to top' button to a page",
+    "keywords": [
+		"Language",
+        "Browser",
+        "Detection",
+		"Redirect"
+    ]
+}
