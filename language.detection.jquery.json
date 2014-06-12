@@ -16,7 +16,7 @@
         "jquery": ">=1.5"
     },
 	"homepage": "https://github.com/danieledesantis/jquery-language-detection",
-    "description": "jQuery plugin that adds a fading 'back to top' button to a page",
+    "description": "jQuery plugin for browser language detection with automatic redirection.",
     "keywords": [
 		"Language",
         "Browser",
