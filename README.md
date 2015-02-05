@@ -65,8 +65,7 @@ $(document).ready(function() {
 
 ### domain
 
-The root of your website (use this option if it is inside a subfolder).
-Deafult:http://www.mydomain.xx/
+The root of your website (use this option if it is inside a subfolder). If not set explicitly, this will be set to the protocol and hostname of the URL within the browser URL bar.
 
 ### useFullPaths
 
@@ -85,7 +84,7 @@ The ISO Language Code.
 #### path
 
 The relative path to the folder which contains the files for the language.
-You have to specify the absolute path if you set to `true` the `useFullPaths` option.
+You have to specify the absolute path if you set the `useFullPaths` option to `true`.
 
 #### defaultLanguage
 
